@@ -1,0 +1,256 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-01-12T05:17:38.797Z",
+        "line": 12,
+        "name": "To test the login funtionality of facebook application.",
+        "description": "",
+        "id": "to-test-the-facebook-application.;to-test-the-login-funtionality-of-facebook-application.;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14226667800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To enter URL and navigate to application.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.to_enter_URL_and_navigate_to_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1106140200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To enter \"sakthi\" and \"123\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sakthi\"",
+                  "offset": 9
+                },
+                {
+                  "val": "\"123\"",
+                  "offset": 22
+                }
+              ],
+              "location": "com.stepdefinition.LoginStepDef.to_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1417700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "click the submit button.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.click_the_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1604815500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To test screenshot.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.to_test_screenshot()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1067433200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Close the browser.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-01-12T05:17:56.915Z",
+        "line": 13,
+        "name": "To test the login funtionality of facebook application.",
+        "description": "",
+        "id": "to-test-the-facebook-application.;to-test-the-login-funtionality-of-facebook-application.;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6889857400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To enter URL and navigate to application.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.to_enter_URL_and_navigate_to_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 235877300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To enter \"gerry\" and \"456\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"gerry\"",
+                  "offset": 9
+                },
+                {
+                  "val": "\"456\"",
+                  "offset": 21
+                }
+              ],
+              "location": "com.stepdefinition.LoginStepDef.to_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 500300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "click the submit button.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.click_the_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1141422500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To test screenshot.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.to_test_screenshot()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 746570700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Close the browser.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-01-12T05:18:05.939Z",
+        "line": 14,
+        "name": "To test the login funtionality of facebook application.",
+        "description": "",
+        "id": "to-test-the-facebook-application.;to-test-the-login-funtionality-of-facebook-application.;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6880962700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To enter URL and navigate to application.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.to_enter_URL_and_navigate_to_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 200101900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To enter \"geetha\" and \"789\".",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"geetha\"",
+                  "offset": 9
+                },
+                {
+                  "val": "\"789\"",
+                  "offset": 22
+                }
+              ],
+              "location": "com.stepdefinition.LoginStepDef.to_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1007400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "click the submit button.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.click_the_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1216877400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To test screenshot.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.to_test_screenshot()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 877536400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Close the browser.",
+            "match": {
+              "location": "com.stepdefinition.LoginStepDef.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To test the facebook application.",
+    "description": "",
+    "id": "to-test-the-facebook-application.",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Feature/fblogin.feature",
+    "tags": []
+  }
+]

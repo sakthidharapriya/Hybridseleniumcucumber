@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="3" skipped="0" total="3">
+    <suite duration-ms="36918" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="36918" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="To test the facebook application.">
+                <test-method duration-ms="18006" finished-at="2021-01-12T05:17:56.909040800Z" name="To test the login funtionality of facebook application." started-at="2021-01-12T05:17:38.797701600Z" status="PASS"/>
+                <test-method duration-ms="9014" finished-at="2021-01-12T05:18:05.936373200Z" name="To test the login funtionality of facebook application._2" started-at="2021-01-12T05:17:56.915230200Z" status="PASS"/>
+                <test-method duration-ms="9176" finished-at="2021-01-12T05:18:15.119554600Z" name="To test the login funtionality of facebook application._3" started-at="2021-01-12T05:18:05.939325700Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>
